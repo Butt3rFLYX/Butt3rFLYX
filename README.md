@@ -70,7 +70,7 @@ butt3rflyx@kali:~$ # it's fine. everything is fine.
 | 🌐 Networking | TCP/IP, Subnetting, Wireshark |
 | 🔍 Pentesting | Nmap, Burp Suite, Metasploit |
 | 🐧 Linux | Bash scripting, permissions (the correct ones), hardening |
-| 🚩 CTFs | TryHackMe / HackTheBox (larp) |
+| 🚩 CTFs | TryHackMe / HackTheBox (ye okey HackTheBox is the last larp too) |
 
 </details>
 
