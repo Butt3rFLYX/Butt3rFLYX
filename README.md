@@ -100,7 +100,7 @@ butt3rflyx@kali:~$ # it's fine. everything is fine.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=I'm+in.;there+is+no+limit+to+the+larp+%F0%9F%A6%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=I'm+in.;rerouting+through+the4+server.;there+is+no+limit+to+the+larp+%F0%9F%A6%8B" />
 </p>
 
 <p align="center">
