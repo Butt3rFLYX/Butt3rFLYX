@@ -102,7 +102,7 @@ Energy drinks    ████████████████████  9
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Butt3rFLYX&bg_color=0d1117&color=C084FC&line=7C3AED&point=60A5FA&area=true&area_color=7C3AED&hide_border=true&radius=12&custom_title=Hacking%20Activity%20(totally%20real)" width="100%" />
 </p>
 
-## 🐍 Snake eating my commits (like my sleep schedule)
+## 🐍 Snake eating my commits thats why i have not much
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Butt3rFLYX/Butt3rFLYX/output/github-snake-dark.svg" />
